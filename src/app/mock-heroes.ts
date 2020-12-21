@@ -1,5 +1,6 @@
 import { Hero } from './hero';
 
+// uses brackets after Hero to declare an array
 export const HEROES: Hero[] = [
   { id: 11, name: 'Dr Nice' },
   { id: 12, name: 'Narco' },
